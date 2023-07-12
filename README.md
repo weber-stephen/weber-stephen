@@ -17,7 +17,8 @@
 ## 🏅 Achievements
 
 -   🥇 **Master Ethereum & Solidity Programming From Scratch** on Udemy (May 2023)
--   📝 **Built and Sold 2 Products** (August 2022)
+-   📝 **Built and Sold** a ML data cleaning product that even writes python code for you called [BitRook](https://www.bitrook.com/)
+-   📝 **Built and Sold** a realtime voting board called [Voteboards](https://voteboards.com/) (August 2022)
 -   🥈 **Finalist for SXSW Accelerator Competition** at SXSW (March 2012)
 -   🥉 **2 Webby Awards** (Jan 2011)
 
