@@ -1,31 +1,27 @@
 # 👋 Hi, I’m Stephen Weber  
 
-**Director of Engineering | Scaling AI & SaaS Platforms | Building High-Performance Teams**
+**Hands-on AI product engineering leader building full-stack software and leading teams through delivery.**
 
 ---
 
 ## About Me  
 
-I am an engineering leader with 15+ years of experience building, scaling, and leading engineering organizations across SaaS, AI, and data-driven products. My career has spanned startups through acquisitions, where I’ve driven both technical execution and organizational growth.  
+I build customer-facing AI products and lead the teams that ship them. I work across full-stack architecture and implementation, performance, quality, and engineering delivery.
 
-Currently, I serve as **Director of Engineering at Blackbird AI**, where I lead teams developing advanced AI platforms for risk and narrative intelligence. I focus on aligning technical strategy with business outcomes, cultivating engineering culture, and scaling systems that deliver measurable impact.  
-
-Previously, I have **founded and sold multiple products**, including a machine learning data-cleaning product (BitRook) and a real-time collaboration platform (Voteboards). These experiences sharpened my skills in product strategy, technical architecture, and execution under rapid growth conditions.  
-
-I’m passionate about **mentoring engineers**, shaping high-performance teams, and creating environments where innovation thrives. My technical background in full-stack development, ML infrastructure, and cloud systems allows me to bridge hands-on architecture with executive-level leadership.  
+Most recently, I led application engineering and QA at Blackbird.AI while continuing to build production software. My public projects explore practical AI workflows, with clear review steps and known limits. 
 
 ---
 
 ## Core Skills & Expertise  
 
 - **Leadership & Strategy**  
-  - Scaling engineering teams (10 → 60+)  
+  - Scaling engineering teams (10 → 14+)  
   - Mentorship, coaching, and talent development  
   - Cross-functional leadership (Product, Design, GTM)  
   - Technical roadmap planning aligned with business goals  
 
 - **Architecture & Systems**  
-  - AI/ML infrastructure, Retrieval-Augmented Generation (RAG)  
+  - AI/ML infrastructure
   - Distributed systems & microservices  
   - Cloud platforms: AWS, GCP, Vercel  
   - CI/CD, DevOps culture, technical debt management  
