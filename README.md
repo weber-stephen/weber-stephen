@@ -58,7 +58,7 @@ Most recently, I led application engineering and QA at Blackbird.AI while contin
 
 ## Achievements  
 
-- ⚡ **Built & scaled multiple engineering orgs**, from early teams to 60+ engineers  
+- ⚡ **Built & scaled multiple engineering orgs**, from early teams to 14+ engineers  
 - 📝 **2 successful exits** (BitRook, Voteboards)  
 - 🏆 **Finalist – SXSW Accelerator Competition** (2012)  
 - 🥉 **2× Webby Award Winner** (2011)  
