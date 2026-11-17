@@ -36,21 +36,23 @@ Most recently, I led application engineering and QA at Blackbird.AI while contin
 
 ## Featured Projects  
 
-- 🚀 [**Founder Flow**](https://github.com/weber-stephen/founder-flow)  
-  *An open-source AI startup builder powered by collaborative AI agents.*  
-  FounderFlow enables entrepreneurs to input a product idea or customer problem and instantly generate documents, business models, landing pages, and more through a team of specialized AI agents (CEO, PM, Designer, Engineer, Content Creator).  
+- 🛠️ [**Skill Dockyard**](https://skilldockyard.com/)
+  A shared workspace for teams to find, review, publish, and install AI skills. I built its skill library and review and publishing flow.
 
-- 🛠️ [**SaaS Starter**](https://github.com/weber-stephen/saas-starter)  
-  *A modern boilerplate for SaaS applications.*  
-  SaaS Starter provides a production-ready Next.js + TypeScript foundation with authentication, payments, and deployment pipelines. Designed to help founders and teams ship faster with clean, scalable architecture.  
+- 🧩 [**LLM Diagram**](https://llm-diagram.vercel.app/)
+  Draft Mermaid and draw.io diagrams through conversation, with validation, approval before changes, version history, and export.
 
-- 📊 [**BitRook (Acquired)**](https://www.bitrook.com/)  
-  *A machine learning data-cleaning platform that wrote Python code for analysts.*  
-  Delivered automation that accelerated data prep workflows and was acquired after commercial adoption.  
+- 🌳 [**ForeLoom**](https://stephenweber.io/work/foreloom) ([source](https://github.com/weber-stephen/foreloom-app))
+  A local genealogy research prototype for reviewing conflicting evidence while preserving source facts and reversible decisions. I paused its commercial roadmap after a competitor review.
 
-- 💬 [**Voteboards (Acquired)**](https://voteboards.com/)  
-  *A real-time voting and collaboration tool for teams.*  
-  Built and scaled to acquisition in 2022, demonstrating product-market fit and technical execution in distributed systems.  
+- 📊 [**BitRook (Acquired)**](https://www.bitrook.com/)
+  An ML-powered data-quality platform that profiles data, flags issues, and recommends fixes through a no-code interface. Acquired by an enterprise data company.
+
+- 💬 [**Voteboards (Acquired)**](https://voteboards.com/)
+  A SaaS app for collecting and upvoting ideas, built to help teams prioritize feedback. Acquired by a productivity software company.
+
+- 🚀 [**Founder Flow**](https://github.com/weber-stephen/founder-flow)
+  An open-source AI agent project for generating startup assets from a product idea. I built its modular workflow and feedback loops.
 
 ---
 
